@@ -1,1 +1,1 @@
-
+SELECT city FROM providers
