@@ -1,1 +1,1 @@
-# 💻MySQL 2024
+# 💻PostgreSQL 2024
